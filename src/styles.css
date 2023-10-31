@@ -1,0 +1,12 @@
+* {
+    font-family: roboto;
+    background-color: #2F2F2F;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #F9F9F9
+}
+
+a {
+    text-decoration: none;
+}

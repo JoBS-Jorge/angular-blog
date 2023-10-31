@@ -1,0 +1,43 @@
+.container__small-card {
+    //border: solid white 2px;
+    margin-bottom: 20px;
+    width: 700px;
+}
+
+.container__small-card-content {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.small-card__info {
+    display: flex;
+    align-items: center;
+}
+
+.small-card__title > h1 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.small-card__description {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.small-card__description > p > a {
+    color: #878787;
+    font-size: 20px;
+}
+
+.small-card__picture > img {
+    width: 100%;
+    min-width: 200px;
+    height: 200px;
+}
+
+.container__small-card__separator {
+    
+}
